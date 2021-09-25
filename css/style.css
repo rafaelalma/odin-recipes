@@ -1,0 +1,47 @@
+body {
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 20px;
+    background-color: honeydew;
+    color: #333;
+    font-weight: 300;
+}
+
+h1,
+h2 {
+    color: rgb(80, 80, 80);
+    text-align: center;
+}
+
+hr {
+    color: rgb(80, 80, 80);
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+h2 {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+ul,
+ol {
+    font-size: 22px;
+}
+
+ul{
+    background-color: rgb(80, 80, 80);
+    color: seashell;
+}
+
+a {
+    text-decoration: none;
+    color: blueviolet;
+}
